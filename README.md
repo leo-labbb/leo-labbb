@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-name: Seungho LEE
-
-Blog: https://programmingtilseungho.tistory.com/
+Seungho LEE
 
   <div align=center>
 	
